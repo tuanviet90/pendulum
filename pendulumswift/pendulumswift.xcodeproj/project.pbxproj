@@ -409,6 +409,7 @@
 				8497DFA619DBF27B00BBF001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8497DFA719DBF27B00BBF001 /* Build configuration list for PBXNativeTarget "pendulumswiftTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				8497DFA919DBF27B00BBF001 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
